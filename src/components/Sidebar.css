@@ -1,0 +1,26 @@
+.Sidebar {
+    height: 100vh;
+    background: #2A3541;
+    width: 180px;
+}
+
+.Sidebar ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.Sidebar ul li {
+    padding: 15px;
+    width: 100%;
+}
+
+.Sidebar ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.Sidebar ul li a:hover {
+    color: white;
+    text-decoration: none;
+    background: green;
+}
